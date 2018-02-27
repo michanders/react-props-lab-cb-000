@@ -16,3 +16,5 @@ Spaceship.defaultProps = {
 
 
 const color = ['black', 'red'];
+
+export default Spaceship;
