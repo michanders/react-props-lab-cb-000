@@ -15,4 +15,4 @@ Spaceship.defaultProps = {
 }
 
 
-const color = ['black', 'red']
+const color = ['black', 'red'];
