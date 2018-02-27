@@ -4,6 +4,7 @@ class Spaceship extends React.Component {
     return (
       <div>
         <p>{this.props.name}</p>
+      </div>
     )
   }
 }
